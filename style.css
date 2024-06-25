@@ -1,0 +1,24 @@
+h1{
+    border: solid 5px cadetblue;
+    color: blueviolet;
+    padding: 25px;
+    width:50%;
+    height: 80%;
+}
+
+.decor{
+    color: blueviolet;
+    }
+
+    p{
+        border: solid 5px cadetblue;
+        box-sizing: border-box;
+        padding: 15px;
+        width: 200px;
+        height: 60px;
+                           
+    }
+
+    body{
+        background-color: rgb(206, 218, 218);
+    }
